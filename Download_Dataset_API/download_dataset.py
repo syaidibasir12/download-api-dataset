@@ -3,8 +3,8 @@ import json
 import pandas as pd
 
 # === API Configuration ===
-url = "https://apithunder.makecontact.space/SearchRecord"
-CS_API_KEY = "1abnshqn1rmv243kbuq6i5bq6xyfdexpx58un5kc6qllp"
+url = "YOUR-LINK"
+CS_API_KEY = "YOUR-API-KEY"
 
 headers = {
     "Content-Type": "application/x-www-form-urlencoded",
